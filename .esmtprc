@@ -1,0 +1,5 @@
+identity "gary.tierney@gmx.com"
+hostname mail.gmx.com:25
+username "gary.tierney@gmx.com"
+password "%pass:email/gary.tierney@gmx.com%"
+starttls required

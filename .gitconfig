@@ -1,0 +1,12 @@
+[user]
+	email = gary.tierney@gmx.com
+	name = Gary Tierney
+[core]
+	excludesfile = ~/.gitfiles/gitignore
+	editor = vim
+[pull]
+	rebase = true
+[push]
+	default = current
+[sendemail]
+	smtpserver = /usr/bin/esmtp
