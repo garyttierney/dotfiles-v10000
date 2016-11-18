@@ -1,0 +1,10 @@
+set print pretty on
+set print object on
+set print static-members on
+set print vtbl on
+set print demangle on
+set disassembly-flavor att
+set demangle-style auto
+set print sevenbit-strings off
+set history save on
+set history size 10000
